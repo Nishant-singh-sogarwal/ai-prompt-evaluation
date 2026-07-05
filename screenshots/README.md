@@ -1,9 +1,13 @@
-# Screenshots Folder
+# Screenshots
 
-This folder is reserved for screenshots of:
-- Prompt inputs
-- ChatGPT and Gemini outputs
-- Side-by-side comparison snapshots
-- Score summary visuals
+Use this folder to store screenshots for:
+- Prompt input examples
+- ChatGPT outputs
+- Google Gemini outputs
+- Side-by-side comparisons
+- Final score tables
 
-You can add PNG/JPG files later while documenting your workflow.
+Recommended file naming:
+- `comparison-python.png`
+- `comparison-sql.png`
+- `refinement-example-1.png`
